@@ -1,0 +1,25 @@
+{
+  "name": "modules",
+  "version": "1.0.0",
+  "description": "a module practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anyanime/modules.git"
+  },
+  "keywords": [
+    "name",
+    "age",
+    "person",
+    "message"
+  ],
+  "author": "anyanime",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anyanime/modules/issues"
+  },
+  "homepage": "https://github.com/anyanime/modules#readme"
+}
